@@ -22,6 +22,10 @@ p {
   color: hsl(0, 100%, 50%);
 }
 
+p {
+  text-align: center;
+}
+
 /* p { 
   font-family: "Courier New", monospace;
 } */
