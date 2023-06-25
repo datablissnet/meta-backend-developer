@@ -5,3 +5,64 @@ h1 {
 #header1 {
     color:green;
 }
+
+/* p {
+    color:blue;
+} */
+
+/* p { 
+  color: rgb(255, 0, 0); 
+} */
+
+/* p { 
+  color: rgba(255, 0, 0, 128); 
+} */
+
+p { 
+  color: hsl(0, 100%, 50%);
+}
+
+/* p { 
+  font-family: "Courier New", monospace;
+} */
+
+p { 
+  font-family: "Courier New", monospace;
+  font-size: 12px;
+}
+
+p { 
+  text-transform: uppercase;
+}
+/* 
+p { 
+  text-decoration: underline;
+} */
+
+p { 
+  text-decoration-line: underline;
+  text-decoration-color: red;
+  text-decoration-style: solid;
+  text-decoration-thickness: 5px;
+}
+
+
+#latest { 
+  background-color: purple; 
+}
+
+.navigation { 
+    margin: 2px;
+  }
+
+p.introduction { 
+margin: 2px;
+}
+
+#blog div h1 {
+    color: blue;
+  }
+
+a:hover {
+  color: orange;
+}
