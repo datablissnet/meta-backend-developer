@@ -1,3 +1,4 @@
 .vscode/
 2-Programming-in-Python/__pycache__/
 .env
+.DS_Store
